@@ -83,7 +83,7 @@ const emit = defineEmits<{
 
       <!-- Modal Footer -->
       <div class="modal-footer">
-        <span class="modal-note">想了解類似方案的建置細節與預算？</span>
+        <span class="modal-note">想了解類似方案的建置細節？</span>
         <div class="modal-footer-actions">
           <button class="btn btn-secondary btn-sm" @click="emit('close')">關閉預覽</button>
           <a href="#contact" class="btn btn-primary btn-sm" @click="emit('close')">預約此方案諮詢</a>

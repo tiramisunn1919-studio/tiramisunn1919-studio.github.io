@@ -13,17 +13,6 @@ export interface CaseItem {
   accentColor: string
 }
 
-export interface PricingPlan {
-  id: string
-  name: string
-  price: string
-  unit: string
-  popular?: boolean
-  description: string
-  features: string[]
-  ctaText: string
-}
-
 export interface StepItem {
   no: string
   title: string

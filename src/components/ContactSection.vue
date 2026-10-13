@@ -6,7 +6,7 @@
         <p v-reveal class="section-label">07 / CONTACT</p>
         <h2 v-reveal="80" class="section-title">聊聊你的網站需求</h2>
         <p v-reveal="160" class="contact-intro">
-          還沒完全想清楚規格也完全沒關係，簡單描述您目前的生意現況與想解決的痛點，我們會在<strong>營業時間 10 分鐘內親自回覆</strong>，為您梳理最省成本的解法與建議。
+          還沒完全想清楚規格也完全沒關係，簡單描述您目前的生意現況與想解決的痛點，我們會在<strong>營業時間 10 分鐘內親自回覆</strong>，為您梳理最適合的解法與建議。
         </p>
 
         <div v-reveal="240" class="direct-channels">

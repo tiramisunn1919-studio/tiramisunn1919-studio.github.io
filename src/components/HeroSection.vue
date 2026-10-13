@@ -49,7 +49,7 @@ const stats = [
 
           <!-- Description -->
           <p class="hero-desc">
-            從報價、設計、開發到上線維護，全程都是同一組人。<br class="desktop-br">
+            從需求討論、設計、開發到上線維護，全程都是同一組人。<br class="desktop-br">
             不轉包、不換窗口，有問題直接找寫程式的人。
           </p>
 
